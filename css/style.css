@@ -1,9 +1,5 @@
-/*
-Add this stylesheet link inside the <head> of every HTML page:
-   <link rel="stylesheet" href="css/style.css">
-*/
 
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@500;600;700;800&display=swap');
+
 
 :root {
   /* Colour tokens */
